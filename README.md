@@ -1,7 +1,7 @@
 # hannaasfaw.github.io
 
-#Commputer Science Student
+Commputer Science Student
 
-##Education
+Education
 
-###Projects
+Projects
