@@ -4,4 +4,6 @@ Computer Science Student
 
 Education
 
+Techniquical skills
+
 Projects
