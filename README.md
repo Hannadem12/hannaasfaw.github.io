@@ -1,6 +1,6 @@
 # hannaasfaw.github.io
 
-Commputer Science Student
+Computer Science Student
 
 Education
 
